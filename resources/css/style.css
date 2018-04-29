@@ -2,6 +2,14 @@ body {
   font-family: Helvetica;
   text-align: center;
 }
+a {
+  color: white;
+}
+h1 {
+  font-size: 70px;
+}
 .header {
   background-image: url("./flatiron.png");
+  color: white;
+  font-weight: bold;
 }
