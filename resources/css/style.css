@@ -29,3 +29,7 @@ h3 {
   background-repeat: no-repeat;
   color: white;
 }
+.bottom {
+  background-color: dimgray;
+  font-size: 11px;
+}
