@@ -6,7 +6,7 @@ a {
   color: white;
 }
 h {
-    font-weight: bold;
+  font-weight: bold;
 }
 p {
   font-size: 14px;
@@ -25,5 +25,7 @@ h3 {
 }
 .header {
   background-image: url("./flatiron.png");
+  background-position: center;
+  background-repeat: no-repeat;
   color: white;
 }
